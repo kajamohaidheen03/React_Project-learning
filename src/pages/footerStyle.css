@@ -1,0 +1,16 @@
+/* footerStyle.css */
+.footer {
+    background-color: #0a2351; /* Corrected the background color */
+    padding: 10px 0;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    color: white; /* Ensures the text color is white */
+  }
+  
+  .footer-content {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
